@@ -5,12 +5,14 @@ repo_url: https://github.com/terancejiang/Stock_Analyze_Prompts
 nav:
   - Home: index.md
   - 烟蒂股分析 (Cigbutt):
+      - Overview: cigbutt/index.md
       - cigbutt/烟蒂股分析Prompt_v1.7.md
       - cigbutt/烟蒂股分析Prompt_v1.6.md
       - cigbutt/烟蒂股分析Prompt_v1.5.md
       - cigbutt/烟蒂股分析Prompt_v1.4.md
       - cigbutt/烟蒂股分析Prompt_v1.3.md
   - 龟龟投资策略 (Turtle):
+      - Overview: turtle_framework/index.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.9.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.8.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.7.md
@@ -18,6 +20,7 @@ nav:
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.5.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.4.md
   - Reports:
+      - Overview: reports/index.md
       - reports/宝胜国际_v1.6分析报告_20260225.md
       - reports/上海实业控股烟蒂股分析报告.md
       - reports/中国淀粉控股_烟蒂股量化分析报告.md
