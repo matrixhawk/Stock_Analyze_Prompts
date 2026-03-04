@@ -4,6 +4,7 @@
 
 ## 烟蒂股分析报告
 
+- [中国动向 v1.7](cigbutt_reports/中国动向_烟蒂股分析报告_v1.7.md)
 - [京投交通科技 v1.3](cigbutt_reports/京投交通科技_烟蒂股分析报告_v1.3.md)
 - [金融街物业 v1.7](cigbutt_reports/金融街物业_烟蒂股分析报告_v1.7.md)
 - [金融街物业 v1.0](cigbutt_reports/金融街物业_烟蒂股分析报告_v1.0.md)
