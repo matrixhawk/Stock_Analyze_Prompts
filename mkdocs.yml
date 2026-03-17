@@ -65,6 +65,11 @@ nav:
           - reports/cigbutt_reports/禅游科技_烟蒂股分析报告.md
           - reports/cigbutt_reports/中教控股_烟蒂股分析报告.md
       - 龟龟投资策略报告:
+          - 公牛集团:
+              - reports/turtle_reports/603195_公牛集团/公牛集团_603195_分析报告.md
+              - reports/turtle_reports/603195_公牛集团/data_pack_market.md
+              - reports/turtle_reports/603195_公牛集团/data_pack_report.md
+              - reports/turtle_reports/603195_公牛集团/data_pack_report_interim.md
           - 网易:
               - reports/turtle_reports/09999_网易/网易-S_09999_分析报告.md
               - reports/turtle_reports/09999_网易/data_pack_market.md
