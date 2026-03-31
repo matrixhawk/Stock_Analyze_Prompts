@@ -1,5 +1,7 @@
 # 定性分析：商业质量评估 — 太阳纸业 (002078.SZ)
 
+> [查看 HTML 仪表盘版本](qualitative_report_v1_dashboard.html)
+
 ---
 
 ## 执行摘要
