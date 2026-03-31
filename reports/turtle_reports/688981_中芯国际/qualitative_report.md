@@ -1,5 +1,7 @@
 # 定性分析：商业质量评估 — 中芯国际 (688981.SH)
 
+> [查看 HTML 仪表盘版本](qualitative_report_dashboard.html)
+
 *生成时间: 2026-03-31*
 *分析模式: 独立运行（/business-analysis）*
 
